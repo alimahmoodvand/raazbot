@@ -1,6 +1,6 @@
 function init (crash) {
 
-//bot
+//botdfsdfsdf
 global.TeleBot = require('telebot');
 global.async = require('async');
 global.token='434024156:AAGsIGk0bTr0Hngbpn2AVUiNb-z90aUze5w'

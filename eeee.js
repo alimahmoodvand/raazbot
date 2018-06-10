@@ -1,6 +1,6 @@
 var AC=function(){
-    reportExcelAC();  sdfgadfsfg
-};
+    reportExcelAC();
+}
 var Charging=function(){
     reportExcelCharging();
 };
