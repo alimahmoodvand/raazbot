@@ -1,0 +1,19 @@
+{
+  "name": "raz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "dateformat": "^2.0.0",
+    "mongoose": "^4.8.5",
+    "node-cron": "^1.1.3",
+    "request": "^2.87.0",
+    "telebot": "^1.2.6"
+  }
+}
